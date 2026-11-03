@@ -1,4 +1,4 @@
-# Portfólio — Rafael Yuta Nischida (CP3 · Stack e Harness Engineering)
+# Portfólio - Rafael Yuta Nischida (CP3 · Stack e Harness Engineering)
 
 Portfólio profissional em React + TypeScript. Os projetos vêm automaticamente da API do GitHub, o formulário de contato grava no Supabase e envia e-mail por uma Edge Function, e um dashboard protegido por Supabase Auth + RLS gerencia mensagens e projetos em destaque.
 
