@@ -8,8 +8,7 @@ Apresentar trabalho e trajetória com uma base de engenharia real: arquitetura p
 
 ## Demonstração e capturas
 
-- Site publicado: **_preencher após o deploy na Vercel_**
-- Capturas de tela: **_adicionar em `docs/screenshots/` após rodar o projeto_** (não foram geradas no ambiente de desenvolvimento, que não tinha navegador).
+- Site publicado: https://cp6webdev.vercel.app
 
 ## Tecnologias
 
