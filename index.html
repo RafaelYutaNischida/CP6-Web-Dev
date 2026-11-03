@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rafael Yuta Nischida — Portfólio</title>
+    <meta
+      name="description"
+      content="Portfólio de Rafael Yuta Nischida: projetos, trajetória e contato."
+    />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      // Aplica o tema antes da primeira pintura para evitar flash.
+      try {
+        var t = localStorage.getItem('theme')
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+        }
+        document.documentElement.classList.toggle('dark', t === 'dark')
+        document.documentElement.style.colorScheme = t
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
