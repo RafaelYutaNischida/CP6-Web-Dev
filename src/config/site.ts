@@ -55,3 +55,4 @@ export const SITE: SiteConfig = {
 
 /** Quantos projetos em destaque aparecem por padrão quando nenhum foi selecionado no dashboard. */
 export const DEFAULT_FEATURED_COUNT = 6
+
