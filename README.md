@@ -46,8 +46,8 @@ npm run dev
 | Variável                                                         | Onde                         | Descrição                                       |
 | ---------------------------------------------------------------- | ---------------------------- | ----------------------------------------------- |
 | `VITE_GITHUB_USER`                                               | front                        | usuário do GitHub (padrão `RafaelYutaNischida`) |
-| `VITE_SUPABASE_URL`                                              | front                        | URL do projeto Supabase                         |
-| `VITE_SUPABASE_ANON_KEY`                                         | front                        | chave anon (pública; protegida por RLS)         |
+| `VITE_SUPABASE_URL`                                              | front                        | https://hflbabmisbwgrueyrulx.supabase.co        |
+| `VITE_SUPABASE_ANON_KEY`                                         | front                        | sb_publishable_K7cJ9s_Jmolav9J8irRG4A_O-HCstaB  |
 | `RESEND_API_KEY`, `OWNER_EMAIL`, `RESEND_FROM`, `ALLOWED_ORIGIN` | **secrets da Edge Function** | nunca vão ao front                              |
 
 Configuração completa de Supabase, Resend e Vercel: [docs/SETUP.md](docs/SETUP.md).
